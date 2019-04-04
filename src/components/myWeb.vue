@@ -90,13 +90,15 @@
             </div>
 
             <!-- Avatar image -->
-          <!--  <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="padding-top: 20%">
-              <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
+       <!--     <div style="float: left">
+              <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" >
+                <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
+              </div>
+              <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="float: left">
+                <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
+              </div>
             </div>-->
-            <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated">
-              <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
-            </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="float: left">
+            <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="margin-top: 40%">
               <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
             </div>
             <!-- End avatar image -->
@@ -640,7 +642,6 @@
                 <li class="hvr-grow"><a href="#"><i class="fa fa-linkedin"></i></a></li>
                 <li class="hvr-grow"><a href="#"><i class="fa fa-dribbble"></i></a></li>
               </ul>
-              <p>Copyright &copy; 2017.Company name All rights reserved.More Templates <a href="http://www.cssmoban.com/" target="_blank" title="模板之家">模板之家</a> - Collect from <a href="http://www.cssmoban.com/" title="网页模板" target="_blank">网页模板</a></p>
             </div>
 
           </div>
