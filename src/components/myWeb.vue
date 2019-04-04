@@ -1,5 +1,5 @@
 <template>
- <!-- <div class="myWeb">
+<!--  <div class="myWeb">
     <div id="preloader">
       <div id="loader">
         <img src="/static/img/cube.gif" alt="preload spinner">
@@ -90,15 +90,15 @@
             </div>
 
             &lt;!&ndash; Avatar image &ndash;&gt;
-       &lt;!&ndash;     <div style="float: left">
-              <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" >
-                <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
-              </div>
-              <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="float: left">
-                <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
-              </div>
-            </div>&ndash;&gt;
-            <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="margin-top: 40%">
+            &lt;!&ndash;     <div style="float: left">
+                   <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" >
+                     <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
+                   </div>
+                   <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="float: left">
+                     <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
+                   </div>
+                 </div>&ndash;&gt;
+            <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="margin-top: 20%">
               <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
             </div>
             &lt;!&ndash; End avatar image &ndash;&gt;
@@ -123,10 +123,10 @@
                   <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
                 </div>
 
-                  <h5>Elasticsearch</h5>
-                    <div class="progress progress-striped active">
-                      <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
-                    </div>
+                <h5>Elasticsearch</h5>
+                <div class="progress progress-striped active">
+                  <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
+                </div>
 
                 <h5>Javascript</h5>
                 <div class="progress progress-striped active">
@@ -421,7 +421,7 @@
             &lt;!&ndash; education 1 &ndash;&gt;
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
               <h4>Computer science</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante.</p>
+              <p>sill in school</p>
               <hr class="hidden-xs">
             </div>
 
@@ -431,9 +431,9 @@
                   <i class="fa fa-graduation-cap"></i>
                 </div>
                 <div class="icon-list-content">
-                  <div class="icon-list-title">Princeton University</div>
+                  <div class="icon-list-title">The University of Sydney</div>
                   <div class="icon-list-info">
-                    <span>2008 - 2010</span>
+                    <span>2019 - </span>
                   </div>
                 </div>
               </div>
@@ -441,51 +441,53 @@
             </div>
 
             &lt;!&ndash; education 2 &ndash;&gt;
-            <div class="col-sm-8 col-md-8 col-md-push-4 animated">
-              <h4>Software engineering</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante.</p>
-              <hr class="hidden-xs">
-            </div>
-
-            <div class="col-sm-4 col-md-4 col-md-pull-8 animated">
-              <div class="icon-list">
-                <div class="icon-list-icon">
-                  <i class="fa fa-graduation-cap"></i>
-                </div>
-                <div class="icon-list-content">
-                  <div class="icon-list-title">Harvard University</div>
-                  <div class="icon-list-info">
-                    <span>2010 - 2013</span>
+            &lt;!&ndash;      <div class="col-sm-8 col-md-8 col-md-push-4 animated">
+                    <h4>Software engineering</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante.</p>
+                    <hr class="hidden-xs">
                   </div>
-                </div>
-              </div>
-              <hr class="visible-xs">
-            </div>
+
+                  <div class="col-sm-4 col-md-4 col-md-pull-8 animated">
+                    <div class="icon-list">
+                      <div class="icon-list-icon">
+                        <i class="fa fa-graduation-cap"></i>
+                      </div>
+                      <div class="icon-list-content">
+                        <div class="icon-list-title">Harvard University</div>
+                        <div class="icon-list-info">
+                          <span>2010 - 2013</span>
+                        </div>
+                      </div>
+                    </div>
+                    <hr class="visible-xs">
+                  </div>&ndash;&gt;
 
           </div>
           &lt;!&ndash; .row &ndash;&gt;
 
-          <div class="row">
-            <div class="col-md-12 animated">
+          <div class="row" style="margin-top: 15%">
+            <div class="col-md-12 animated" style="margin-bottom: 5%">
               <h3>Experience</h3>
             </div>
 
             &lt;!&ndash; experience 1 &ndash;&gt;
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
-              <h4>Hybrid developer</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante.</p>
+              <h4>Internship</h4>
+              <p>Fulltack: use java,js,git,html,css,ssm.Developed and maintaind official website,background system
+                Company:Japan an education training site, the main function has introduced university lists and details page, page list and the details of the news and information, online assessment of a form is submitted back to see, the list of partners and links, the banner of the first page of the wheel effect, through some display at the front desk and background control information, etc.
+              </p>
               <hr class="hidden-xs">
             </div>
 
-            <div class="col-sm-4 col-md-4 col-md-pull-8 animated">
+            <div class="col-sm-4 col-md-4 col-md-pull-8 animated" style="margin-top: 5%">
               <div class="icon-list">
                 <div class="icon-list-icon">
                   <i class="fa fa-briefcase"></i>
                 </div>
                 <div class="icon-list-content">
-                  <div class="icon-list-title">Swift</div>
+                  <div class="icon-list-title">TopWeb Network technology co. LTD</div>
                   <div class="icon-list-info">
-                    <span>2013 - 2014</span>
+                    <span>2018 - 2018</span>
                   </div>
                 </div>
               </div>
@@ -494,20 +496,45 @@
 
             &lt;!&ndash; experience 2 &ndash;&gt;
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
-              <h4>Software engineer</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante.</p>
+              <h4>FullStack development</h4>
+              <p>Official Website:<a href="http://duankou.bidewu.com/#/login">http://duankou.bidewu.com/#/login</a></p>
+              <p>App:  <a href="http://m.bidewu.com/ad/ldy/dongfangdi/index_baidu.html">http://m.bidewu.com/ad/ldy/dongfangdi/index_baidu.html</a></p>
+              <p>Wechat Official Accounts: 懂房帝服务号</p>
+              <p>FullStack development: Few background System about 4,Official Website. Exhibition the house list and house detail. Management of Houses and Staffs. Management of Permissions </p>
+              <p>Backend  development: development of App,Applet of WeChat. Clients can custom find the house which they want to buy or rent by drawing on the phone..  Other function..</p>
               <hr class="hidden-xs">
             </div>
 
-            <div class="col-sm-4 col-md-4 col-md-pull-8 animated">
+            <div class="col-sm-4 col-md-4 col-md-pull-8 animated" style="margin-top: 3%">
               <div class="icon-list">
                 <div class="icon-list-icon">
                   <i class="fa fa-briefcase"></i>
                 </div>
                 <div class="icon-list-content">
-                  <div class="icon-list-title">Manulife</div>
+                  <div class="icon-list-title">BiDeWu Network technology co. LTD</div>
                   <div class="icon-list-info">
-                    <span>2014 - 2015</span>
+                    <span>2019 - </span>
+                  </div>
+                </div>
+              </div>
+              <hr class="visible-xs">
+            </div>
+
+            &lt;!&ndash; experience 2 &ndash;&gt;
+            <div class="col-sm-8 col-md-8 col-md-push-4 animated">
+              <h4>FullStack development</h4>
+              <p>FullStack development: Few background System about 4,Official Website. Exhibition the house list and house detail. Management of Houses and Staffs. Management of Permissions </p>
+            </div>
+
+            <div class="col-sm-4 col-md-4 col-md-pull-8 animated" style="margin-top: 3%">
+              <div class="icon-list">
+                <div class="icon-list-icon">
+                  <i class="fa fa-briefcase"></i>
+                </div>
+                <div class="icon-list-content">
+                  <div class="icon-list-title">PHP</div>
+                  <div class="icon-list-info">
+                    <span>2019 - </span>
                   </div>
                 </div>
               </div>
@@ -636,9 +663,9 @@
             <div class="col-md-12 text-center">
               <a href="index.html" class="footer-logo"><span>Cross.</span></a>
               <ul class="social">
-                <li class="hvr-grow"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li class="hvr-grow"><a href="https://www.facebook.com/profile.php?id=100025098483260"><i class="fa fa-facebook"></i></a></li>
                 <li class="hvr-grow"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li class="hvr-grow"><a href="#"><i class="fa fa-github"></i></a></li>
+                <li class="hvr-grow"><a href="https://github.com/Chywsad8546"><i class="fa fa-github"></i></a></li>
                 <li class="hvr-grow"><a href="#"><i class="fa fa-linkedin"></i></a></li>
                 <li class="hvr-grow"><a href="#"><i class="fa fa-dribbble"></i></a></li>
               </ul>
