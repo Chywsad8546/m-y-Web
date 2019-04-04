@@ -1,5 +1,5 @@
 <template>
-  <!--<div class="myWeb">
+  <div class="myWeb">
     <div id="preloader">
       <div id="loader">
         <img src="/static/img/cube.gif" alt="preload spinner">
@@ -8,21 +8,21 @@
         </div>
       </div>
     </div>
-    &lt;!&ndash; End of preloader &ndash;&gt;
+    <!-- End of preloader -->
 
-    &lt;!&ndash; Start wrapper as cross-portfolio &ndash;&gt;
+    <!-- Start wrapper as cross-portfolio -->
     <div id="cross-portfolio" class="cross-portfolio">
 
-      &lt;!&ndash; Hamburger menu on scroll&ndash;&gt;
+      <!-- Hamburger menu on scroll-->
       <nav id="nav-icon">
         <span></span>
         <span></span>
         <span></span>
         <span></span>
       </nav>
-      &lt;!&ndash; end of hamburger &ndash;&gt;
+      <!-- end of hamburger -->
 
-      &lt;!&ndash; Overlay menu &ndash;&gt;
+      <!-- Overlay menu -->
       <nav id="menu-overlay">
         <ul id="menu" class="menu-click list-unstyled">
           <li><a data-scroll href="#profile" class="smooth-scroll">TOP</a></li>
@@ -32,95 +32,95 @@
           <li><a data-scroll href="#contact" class="smooth-scroll">CONTACT</a></li>
         </ul>
       </nav>
-      &lt;!&ndash; end of overlay menu &ndash;&gt;
+      <!-- end of overlay menu -->
 
-      &lt;!&ndash; Start intro / background / big title &ndash;&gt;
+      <!-- Start intro / background / big title -->
       <div id="intro">
 
-        &lt;!&ndash; Background &ndash;&gt;
+        <!-- Background -->
         <div class="bg">
           <div class="bg-img">
             <img src="/static/img/bg1280x788.jpg" alt="Background Image" />
           </div>
         </div>
-        &lt;!&ndash; End of background &ndash;&gt;
+        <!-- End of background -->
 
-        &lt;!&ndash; Top logo &ndash;&gt;
+        <!-- Top logo -->
         <div class="cross-top">
           <a href="index.html" class="logo"><span>Cross.</span></a>
         </div>
-        &lt;!&ndash; End of top logo &ndash;&gt;
+        <!-- End of top logo -->
 
-        &lt;!&ndash; The middle big title &ndash;&gt;
+        <!-- The middle big title -->
         <div class="big-title">
           <div class="text-center">
             <h1>Chen Hui Yuan</h1>
             <p>I'm <span class="sub-title"></span></p>
           </div>
         </div>
-        &lt;!&ndash; End of big title &ndash;&gt;
+        <!-- End of big title -->
 
-        &lt;!&ndash; Chevron arrow down button &ndash;&gt;
+        <!-- Chevron arrow down button -->
         <button class="trigger hvr-hang"><i class="fa fa-chevron-down"></i></button>
 
       </div>
-      &lt;!&ndash; End of intro &ndash;&gt;
+      <!-- End of intro -->
 
-      &lt;!&ndash; Start of profile &ndash;&gt;
+      <!-- Start of profile -->
       <div id="profile" class="content">
         <div class="containers">
           <div class="row">
             <div class="col-lg-12">
 
-              &lt;!&ndash; Title &ndash;&gt;
+              <!-- Title -->
               <div class="title">
                 <h1>Chen Hui Yuan</h1>
                 <span class="h4 element"></span>
               </div>
-              &lt;!&ndash; End of title &ndash;&gt;
+              <!-- End of title -->
 
-              &lt;!&ndash; About me &ndash;&gt;
+              <!-- About me -->
               <div class="space">
                 <h3>ABOUT ME</h3>
                 <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante. Pellentesque a ornare libero. Aenean sed ipsum a lectus volutpat dictum non non
                   neque. Nunc sit amet felis non velit consequat venenatis id eu dui.</p>
                 <p class="text-justify">In congue eu dui sit amet euismod. Ut vehicula tellus nec laoreet congue. Mauris id eros ultricies, vulputate metus ac, euismod lorem.</p>
               </div>
-              &lt;!&ndash; End of about me &ndash;&gt;
+              <!-- End of about me -->
             </div>
 
-            &lt;!&ndash; Avatar image &ndash;&gt;
-            &lt;!&ndash;     <div style="float: left">
+            <!-- Avatar image -->
+            <!--     <div style="float: left">
                    <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" >
                      <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
                    </div>
                    <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="float: left">
                      <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
                    </div>
-                 </div>&ndash;&gt;
+                 </div>-->
             <div class="col-lg-6 col-md-12 col-sm-12 hidden-md animated" style="margin-top: 20%">
               <img src="/static/img/avatar500x680.jpg" class="avatar" alt="Avatar">
             </div>
-            &lt;!&ndash; End avatar image &ndash;&gt;
+            <!-- End avatar image -->
 
-            &lt;!&ndash; Start skills / expertise &ndash;&gt;
+            <!-- Start skills / expertise -->
             <div class="col-lg-6 col-md-12 col-sm-12">
               <div class="space">
                 <h3>EXPERTISE</h3>
 
                 <h5>HTML / CSS3</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-danger" style="width: 90%"></div>
                 </div>
 
                 <h5>Ajax</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-danger" style="width: 90%"></div>
                 </div>
 
                 <h5>swagger</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-danger" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-danger" style="width: 95%"></div>
                 </div>
 
                 <h5>Elasticsearch</h5>
@@ -130,17 +130,17 @@
 
                 <h5>Javascript</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-default" style="width: 90%"></div>
+                  <div class="progress-bar progress-bar-default" style="width: 96%"></div>
                 </div>
 
                 <h5>BootStrap</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-warning" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-warning" style="width: 95%"></div>
                 </div>
 
                 <h5>SSM Frame</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-warning" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-warning" style="width: 95%"></div>
                 </div>
 
                 <h5>Laravel</h5>
@@ -165,7 +165,7 @@
 
                 <h5>Nginx</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-success" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-success" style="width: 75%"></div>
                 </div>
 
                 <h5>Wabpack</h5>
@@ -175,22 +175,22 @@
 
                 <h5>Node.js</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-default" style="width: 70%"></div>
+                  <div class="progress-bar progress-bar-default" style="width: 80%"></div>
                 </div>
 
                 <h5>JAVA</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-default" style="width: 70%"></div>
+                  <div class="progress-bar progress-bar-default" style="width: 95%"></div>
                 </div>
 
                 <h5>VUE</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-default" style="width: 85%"></div>
+                  <div class="progress-bar progress-bar-default" style="width: 93%"></div>
                 </div>
 
                 <h5>MySQL/PostgreSql</h5>
                 <div class="progress progress-striped active">
-                  <div class="progress-bar progress-bar-success" style="width: 80%"></div>
+                  <div class="progress-bar progress-bar-success" style="width: 95%"></div>
                 </div>
 
                 <h5>.NET</h5>
@@ -200,21 +200,21 @@
 
               </div>
             </div>
-            &lt;!&ndash; End of skills / expertise &ndash;&gt;
+            <!-- End of skills / expertise -->
           </div>
-          &lt;!&ndash; end row &ndash;&gt;
+          <!-- end row -->
         </div>
-        &lt;!&ndash; end containers &ndash;&gt;
+        <!-- end containers -->
       </div>
-      &lt;!&ndash; end profile &ndash;&gt;
+      <!-- end profile -->
 
-      &lt;!&ndash; Start countTo &ndash;&gt;
+      <!-- Start countTo -->
       <div id="count" class="content">
         <div class="containers">
           <div class="row">
             <div class="col-md-12">
 
-              &lt;!&ndash; CountTo &ndash;&gt;
+              <!-- CountTo -->
               <div class="animated text-center">
                 <div class="col-md-4">
                   <p class="h2"><i class="fa fa-child"></i> <span class="count" data-from="0" data-to="27" data-speed="5000" data-refresh-interval="50"></span></p>
@@ -229,30 +229,30 @@
                   <h5 class="text-weight">Line of Code</h5>
                 </div>
               </div>
-              &lt;!&ndash; End countTo &ndash;&gt;
+              <!-- End countTo -->
 
             </div>
-            &lt;!&ndash; end col-md-12 &ndash;&gt;
+            <!-- end col-md-12 -->
           </div>
-          &lt;!&ndash; end row &ndash;&gt;
+          <!-- end row -->
         </div>
-        &lt;!&ndash; end containers &ndash;&gt;
+        <!-- end containers -->
       </div>
-      &lt;!&ndash; End of countTo &ndash;&gt;
+      <!-- End of countTo -->
 
-      &lt;!&ndash; Start services / what I can &ndash;&gt;
+      <!-- Start services / what I can -->
       <div id="services" class="content">
         <div class="containers">
           <div class="row">
 
-            &lt;!&ndash; Title &ndash;&gt;
+            <!-- Title -->
             <div class="col-md-12 headline">
               <h2>WHAT I CAN</h2>
               <hr>
             </div>
-            &lt;!&ndash; end title &ndash;&gt;
+            <!-- end title -->
 
-            &lt;!&ndash; Start &ndash;&gt;
+            <!-- Start -->
             <div class="col-md-12">
               <div class="row">
 
@@ -284,7 +284,7 @@
                   </div>
                 </div>
               </div>
-              &lt;!&ndash; .row &ndash;&gt;
+              <!-- .row -->
 
               <div class="row">
                 <div class="col-sm-6 animated">
@@ -314,34 +314,34 @@
                     </div>
                   </div>
                 </div>
-                &lt;!&ndash; end services item &ndash;&gt;
+                <!-- end services item -->
               </div>
-              &lt;!&ndash; row &ndash;&gt;
+              <!-- row -->
             </div>
-            &lt;!&ndash; col-md-12 &ndash;&gt;
+            <!-- col-md-12 -->
           </div>
-          &lt;!&ndash; row &ndash;&gt;
+          <!-- row -->
         </div>
-        &lt;!&ndash; containers &ndash;&gt;
+        <!-- containers -->
       </div>
-      &lt;!&ndash; End of services / what i can &ndash;&gt;
+      <!-- End of services / what i can -->
 
-      &lt;!&ndash; Start of portfolio &ndash;&gt;
+      <!-- Start of portfolio -->
       <div id="portfolio" class="content">
         <div class="containers">
           <div class="row">
 
-            &lt;!&ndash; title &ndash;&gt;
+            <!-- title -->
             <div class="col-md-12 headline">
               <h2>RECENT WORK</h2>
               <hr>
             </div>
-            &lt;!&ndash; end title &ndash;&gt;
+            <!-- end title -->
 
-            &lt;!&ndash; start work profolio image &ndash;&gt;
+            <!-- start work profolio image -->
             <div class="col-md-12 space">
 
-              &lt;!&ndash; image 1 &ndash;&gt;
+              <!-- image 1 -->
               <figure class="cross-image animated">
                 <img src="/static/img/project_1.jpg" alt="Project 1" />
                 <figcaption>
@@ -351,7 +351,7 @@
                 </figcaption>
               </figure>
 
-              &lt;!&ndash; image 2 &ndash;&gt;
+              <!-- image 2 -->
               <figure class="cross-image animated">
                 <img src="/static/img/project_2.jpg" alt="Project 2" />
                 <figcaption>
@@ -361,7 +361,7 @@
                 </figcaption>
               </figure>
 
-              &lt;!&ndash; image 3 &ndash;&gt;
+              <!-- image 3 -->
               <figure class="cross-image animated">
                 <img src="/static/img/project_3.jpg" alt="Project 3" />
                 <figcaption>
@@ -371,7 +371,7 @@
                 </figcaption>
               </figure>
 
-              &lt;!&ndash; image 4 &ndash;&gt;
+              <!-- image 4 -->
               <figure class="cross-image animated">
                 <img src="/static/img/project_4.jpg" alt="Project 4" />
                 <figcaption>
@@ -382,43 +382,43 @@
               </figure>
 
             </div>
-            &lt;!&ndash; end of work portfolio image &ndash;&gt;
+            <!-- end of work portfolio image -->
 
-            &lt;!&ndash; middle view more button &ndash;&gt;
+            <!-- middle view more button -->
             <div class="col-md-12 text-center animated">
               <a href="#" class="btn btn-success btn-lg" data-toggle="modal" data-target="#projectModal"><i class="fa fa-plane"></i> View More</a>
             </div>
-            &lt;!&ndash; end button &ndash;&gt;
+            <!-- end button -->
           </div>
-          &lt;!&ndash; row &ndash;&gt;
+          <!-- row -->
         </div>
-        &lt;!&ndash; containers &ndash;&gt;
+        <!-- containers -->
       </div>
-      &lt;!&ndash; End of portfolio &ndash;&gt;
+      <!-- End of portfolio -->
       <div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >网页模板</a></div>
 
-      &lt;!&ndash; Start of resume &ndash;&gt;
+      <!-- Start of resume -->
       <div id="resume" class="content">
         <div class="containers">
           <div class="row">
 
-            &lt;!&ndash; title &ndash;&gt;
+            <!-- title -->
             <div class="col-md-12 headline">
               <h2>RESUME</h2>
               <hr>
             </div>
-            &lt;!&ndash; end title&ndash;&gt;
+            <!-- end title-->
           </div>
-          &lt;!&ndash; .row &ndash;&gt;
+          <!-- .row -->
 
-          &lt;!&ndash; start resume item &ndash;&gt;
+          <!-- start resume item -->
           <div class="row">
 
             <div class="col-md-12 animated">
               <h3>Education</h3>
             </div>
 
-            &lt;!&ndash; education 1 &ndash;&gt;
+            <!-- education 1 -->
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
               <h4>Computer science</h4>
               <p>sill in school</p>
@@ -440,8 +440,8 @@
               <hr class="visible-xs">
             </div>
 
-            &lt;!&ndash; education 2 &ndash;&gt;
-            &lt;!&ndash;      <div class="col-sm-8 col-md-8 col-md-push-4 animated">
+            <!-- education 2 -->
+            <!--      <div class="col-sm-8 col-md-8 col-md-push-4 animated">
                     <h4>Software engineering</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis. Nam sem lacus, vulputate ut turpis vel, viverra porta ante.</p>
                     <hr class="hidden-xs">
@@ -460,17 +460,17 @@
                       </div>
                     </div>
                     <hr class="visible-xs">
-                  </div>&ndash;&gt;
+                  </div>-->
 
           </div>
-          &lt;!&ndash; .row &ndash;&gt;
+          <!-- .row -->
 
           <div class="row" style="margin-top: 15%">
             <div class="col-md-12 animated" style="margin-bottom: 5%">
               <h3>Experience</h3>
             </div>
 
-            &lt;!&ndash; experience 1 &ndash;&gt;
+            <!-- experience 1 -->
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
               <h4>Internship</h4>
               <p>Fulltack: use java,js,git,html,css,ssm.Developed and maintaind official website,background system
@@ -494,7 +494,7 @@
               <hr class="visible-xs">
             </div>
 
-            &lt;!&ndash; experience 2 &ndash;&gt;
+            <!-- experience 2 -->
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
               <h4>FullStack development</h4>
               <p>Official Website:<a href="http://duankou.bidewu.com/#/login">http://duankou.bidewu.com/#/login</a></p>
@@ -520,7 +520,7 @@
               <hr class="visible-xs">
             </div>
 
-            &lt;!&ndash; experience 2 &ndash;&gt;
+            <!-- experience 2 -->
             <div class="col-sm-8 col-md-8 col-md-push-4 animated">
               <h4>FullStack development</h4>
               <p>FullStack development: Few background System about 4,Official Website. Exhibition the house list and house detail. Management of Houses and Staffs. Management of Permissions </p>
@@ -542,29 +542,29 @@
             </div>
 
           </div>
-          &lt;!&ndash; .row &ndash;&gt;
+          <!-- .row -->
 
-          &lt;!&ndash; download cv button &ndash;&gt;
+          <!-- download cv button -->
           <div class="row">
             <div class="col-md-12 animated text-center">
               <a href="#" class="btn btn-default btn-lg"><i class="fa fa-cloud-download"></i> Download CV</a>
             </div>
           </div>
-          &lt;!&ndash; row &ndash;&gt;
+          <!-- row -->
         </div>
-        &lt;!&ndash; containers &ndash;&gt;
+        <!-- containers -->
       </div>
-      &lt;!&ndash; End of portfolio &ndash;&gt;
+      <!-- End of portfolio -->
 
-      &lt;!&ndash; Start testimonial &ndash;&gt;
+      <!-- Start testimonial -->
       <div id="testimonial" class="content">
         <div class="row">
           <div class="col-md-12">
 
-            &lt;!&ndash; Carousel Slides / Quotes &ndash;&gt;
+            <!-- Carousel Slides / Quotes -->
             <div class="carousel-inner animated">
 
-              &lt;!&ndash; Quote 1 &ndash;&gt;
+              <!-- Quote 1 -->
               <div class="item">
                 <blockquote>
                   <div class="row">
@@ -579,7 +579,7 @@
                 </blockquote>
               </div>
 
-              &lt;!&ndash; Quote 2 &ndash;&gt;
+              <!-- Quote 2 -->
               <div class="item">
                 <blockquote>
                   <div class="row">
@@ -594,7 +594,7 @@
                 </blockquote>
               </div>
 
-              &lt;!&ndash; Quote 3 &ndash;&gt;
+              <!-- Quote 3 -->
               <div class="item">
                 <blockquote>
                   <div class="row">
@@ -610,28 +610,28 @@
               </div>
 
             </div>
-            &lt;!&ndash; End Carousel Slides &ndash;&gt;
+            <!-- End Carousel Slides -->
           </div>
-          &lt;!&ndash; col-md-12 &ndash;&gt;
+          <!-- col-md-12 -->
         </div>
-        &lt;!&ndash; row &ndash;&gt;
+        <!-- row -->
       </div>
-      &lt;!&ndash; End of testimonial &ndash;&gt;
+      <!-- End of testimonial -->
 
-      &lt;!&ndash; Start of contact &ndash;&gt;
+      <!-- Start of contact -->
       <div id="contact" class="content">
         <div class="containers">
           <div class="row space">
 
-            &lt;!&ndash; title &ndash;&gt;
+            <!-- title -->
             <div class="col-md-12 headline">
               <h2>LET'S WORK TOGETHER</h2>
               <hr>
               <p>I'm available for freelance opportunities.</p>
             </div>
-            &lt;!&ndash; End title &ndash;&gt;
+            <!-- End title -->
 
-            &lt;!&ndash; Start google maps / change your address in data-center&ndash;&gt;
+            <!-- Start google maps / change your address in data-center-->
             <div class="col-md-12 animated">
               <div class="gmap" id="map" data-center="121 S Pinckney St" data-zoom="15">
                 <address>
@@ -639,54 +639,55 @@
                 </address>
               </div>
             </div>
-            &lt;!&ndash; End google maps &ndash;&gt;
+            <!-- End google maps -->
           </div>
-          &lt;!&ndash; row &ndash;&gt;
+          <!-- row -->
 
-          &lt;!&ndash; Email me button &ndash;&gt;
+          <!-- Email me button -->
           <div class="row">
             <div class="col-md-12 animated text-center">
               <a href="mailto:youremail@gmail.com" class="btn btn-primary btn-lg"><i class="fa fa-envelope"></i> EMAIL ME</a>
             </div>
           </div>
-          &lt;!&ndash; row &ndash;&gt;
+          <!-- row -->
         </div>
-        &lt;!&ndash; containers &ndash;&gt;
+        <!-- containers -->
       </div>
-      &lt;!&ndash; End of contact &ndash;&gt;
+      <!-- End of contact -->
 
-      &lt;!&ndash; Start footer &ndash;&gt;
+      <!-- Start footer -->
       <div id="footer" class="content">
         <div class="containers">
           <div class="row">
 
             <div class="col-md-12 text-center">
-                <a href="index.html" class="footer-logo"><span>Cross.</span></a>
-                <ul class="social">
-                  <li class="hvr-grow"><a href="https://www.facebook.com/profile.php?id=100025098483260"><i class="fa fa-facebook"></i></a></li>
-                  <li class="hvr-grow"><a href="https://twitter.com/cjenhuiyuan"><i class="fa fa-twitter"></i></a></li>
-                  <li class="hvr-grow"><a href="https://github.com/Chywsad8546"><i class="fa fa-github"></i></a></li>
-                  <li class="hvr-grow"><a href="https://weibo.com/3810938725/profile?topnav=1&wvr=6"><i class="fa fa-weibo"></i></a></li>
-                  <li class="hvr-grow"><a href="https://chywsad8546.github.io/#"><i class="fa fa-dribbble"></i></a></li>
-                </ul>
-              </div>
+              <a href="index.html" class="footer-logo"><span>Cross.</span></a>
+              <ul class="social">
+                <li class="hvr-grow"><a href="https://www.facebook.com/profile.php?id=100025098483260"><i class="fa fa-facebook"></i></a></li>
+                <li class="hvr-grow"><a href="https://twitter.com/cjenhuiyuan"><i class="fa fa-twitter"></i></a></li>
+                <li class="hvr-grow"><a href="https://github.com/Chywsad8546"><i class="fa fa-github"></i></a></li>
+                <!--  <li class="hvr-grow"><a href="#"><i class="fa fa-linkedin"></i></a></li>-->
+                <li class="hvr-grow"><a href="https://weibo.com/3810938725/profile?topnav=1&wvr=6"><i class="fa fa-weibo"></i></a></li>
+                <li class="hvr-grow"><a href="https://chywsad8546.github.io/#"><i class="fa fa-dribbble"></i></a></li>
+              </ul>
+            </div>
 
           </div>
-          &lt;!&ndash; row &ndash;&gt;
+          <!-- row -->
         </div>
-        &lt;!&ndash; containers &ndash;&gt;
+        <!-- containers -->
       </div>
-      &lt;!&ndash; End of footer &ndash;&gt;
+      <!-- End of footer -->
 
     </div>
-    &lt;!&ndash; end cross portfolio &ndash;&gt;
+    <!-- end cross portfolio -->
 
-    &lt;!&ndash; Fullscreen Modal &ndash;&gt;
+    <!-- Fullscreen Modal -->
     <div class="modal fade fullscreen" id="projectModal" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
           <div class="modal-header">
-            &lt;!&ndash; modal button close &ndash;&gt;
+            <!-- modal button close -->
             <a href="#" class="close" data-dismiss="modal"><i class="fa fa-times"></i></a>
           </div>
 
@@ -695,7 +696,7 @@
 
               <div class="col-md-8 col-md-offset-2">
 
-                &lt;!&ndash; image 1 &ndash;&gt;
+                <!-- image 1 -->
                 <figure class="cross-image">
                   <img src="/static/img/project_1.jpg" alt="Project 5" />
                   <figcaption>
@@ -705,7 +706,7 @@
                   </figcaption>
                 </figure>
 
-                &lt;!&ndash; image 2 &ndash;&gt;
+                <!-- image 2 -->
                 <figure class="cross-image">
                   <img src="/static/img/project_2.jpg" alt="Project 6" />
                   <figcaption>
@@ -715,7 +716,7 @@
                   </figcaption>
                 </figure>
 
-                &lt;!&ndash; image 3 &ndash;&gt;
+                <!-- image 3 -->
                 <figure class="cross-image">
                   <img src="/static/img/project_3.jpg" alt="Project 7" />
                   <figcaption>
@@ -725,7 +726,7 @@
                   </figcaption>
                 </figure>
 
-                &lt;!&ndash; image 4 &ndash;&gt;
+                <!-- image 4 -->
                 <figure class="cross-image">
                   <img src="/static/img/project_4.jpg" alt="Project 8" />
                   <figcaption>
@@ -735,7 +736,7 @@
                   </figcaption>
                 </figure>
 
-                &lt;!&ndash; image 5 &ndash;&gt;
+                <!-- image 5 -->
                 <figure class="cross-image">
                   <img src="/static/img/project_1.jpg" alt="Project 9" />
                   <figcaption>
@@ -745,7 +746,7 @@
                   </figcaption>
                 </figure>
 
-                &lt;!&ndash; image 6 &ndash;&gt;
+                <!-- image 6 -->
                 <figure class="cross-image">
                   <img src="/static/img/project_2.jpg" alt="Project 10" />
                   <figcaption>
@@ -756,18 +757,18 @@
                 </figure>
 
               </div>
-              &lt;!&ndash; col-md-8 &ndash;&gt;
+              <!-- col-md-8 -->
             </div>
-            &lt;!&ndash; row &ndash;&gt;
+            <!-- row -->
           </div>
-          &lt;!&ndash; modal body &ndash;&gt;
+          <!-- modal body -->
         </div>
-        &lt;!&ndash; modal-content &ndash;&gt;
+        <!-- modal-content -->
       </div>
-      &lt;!&ndash; modal-dialog &ndash;&gt;
+      <!-- modal-dialog -->
     </div>
-    &lt;!&ndash; fullscreen &ndash;&gt;
-  </div>-->
+    <!-- fullscreen -->
+  </div>
 </template>
 
 <script>
