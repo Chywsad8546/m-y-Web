@@ -702,7 +702,7 @@
                   <figcaption>
                     <h2>Project 5</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
-                    <a href="#">View More</a>
+                    <a href="http://duankou.bidewu.com/#/login">View More</a>
                   </figcaption>
                 </figure>
 
@@ -712,7 +712,7 @@
                   <figcaption>
                     <h2>Project 6</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
-                    <a href="#">View More</a>
+                    <a href="http://m.bidewu.com/ad/ldy/dongfangdi/index_baidu.html">View More</a>
                   </figcaption>
                 </figure>
 
@@ -722,7 +722,7 @@
                   <figcaption>
                     <h2>Project 7</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
-                    <a href="#">View More</a>
+                    <a href="https://panoxiaoshou.panopath.com/">View More</a>
                   </figcaption>
                 </figure>
 
@@ -736,7 +736,7 @@
                   </figcaption>
                 </figure>
 
-                <!-- image 5 -->
+       <!--         &lt;!&ndash; image 5 &ndash;&gt;
                 <figure class="cross-image">
                   <img src="/static/img/project_1.jpg" alt="Project 9" />
                   <figcaption>
@@ -746,7 +746,7 @@
                   </figcaption>
                 </figure>
 
-                <!-- image 6 -->
+                &lt;!&ndash; image 6 &ndash;&gt;
                 <figure class="cross-image">
                   <img src="/static/img/project_2.jpg" alt="Project 10" />
                   <figcaption>
@@ -754,7 +754,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
                     <a href="#">View More</a>
                   </figcaption>
-                </figure>
+                </figure>-->
 
               </div>
               <!-- col-md-8 -->
