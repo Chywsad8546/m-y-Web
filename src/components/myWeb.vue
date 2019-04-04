@@ -661,15 +661,15 @@
           <div class="row">
 
             <div class="col-md-12 text-center">
-              <a href="index.html" class="footer-logo"><span>Cross.</span></a>
-              <ul class="social">
-                <li class="hvr-grow"><a href="https://www.facebook.com/profile.php?id=100025098483260"><i class="fa fa-facebook"></i></a></li>
-                <li class="hvr-grow"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li class="hvr-grow"><a href="https://github.com/Chywsad8546"><i class="fa fa-github"></i></a></li>
-                <li class="hvr-grow"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                <li class="hvr-grow"><a href="#"><i class="fa fa-dribbble"></i></a></li>
-              </ul>
-            </div>
+                <a href="index.html" class="footer-logo"><span>Cross.</span></a>
+                <ul class="social">
+                  <li class="hvr-grow"><a href="https://www.facebook.com/profile.php?id=100025098483260"><i class="fa fa-facebook"></i></a></li>
+                  <li class="hvr-grow"><a href="https://twitter.com/cjenhuiyuan"><i class="fa fa-twitter"></i></a></li>
+                  <li class="hvr-grow"><a href="https://github.com/Chywsad8546"><i class="fa fa-github"></i></a></li>
+                  <li class="hvr-grow"><a href="https://weibo.com/3810938725/profile?topnav=1&wvr=6"><i class="fa fa-weibo"></i></a></li>
+                  <li class="hvr-grow"><a href="https://chywsad8546.github.io/#"><i class="fa fa-dribbble"></i></a></li>
+                </ul>
+              </div>
 
           </div>
           &lt;!&ndash; row &ndash;&gt;
