@@ -1,5 +1,5 @@
 <template>
-<!--  <div class="myWeb">
+  <!--<div class="myWeb">
     <div id="preloader">
       <div id="loader">
         <img src="/static/img/cube.gif" alt="preload spinner">
@@ -347,7 +347,7 @@
                 <figcaption>
                   <h2>Project 1</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
-                  <a href="#">View More</a>
+                  <a href="http://duankou.bidewu.com/#/login">View More</a>
                 </figcaption>
               </figure>
 
@@ -357,7 +357,7 @@
                 <figcaption>
                   <h2>Project 2</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
-                  <a href="#">View More</a>
+                  <a href="http://m.bidewu.com/ad/ldy/dongfangdi/index_baidu.html">View More</a>
                 </figcaption>
               </figure>
 
@@ -367,7 +367,7 @@
                 <figcaption>
                   <h2>Project 3</h2>
                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In hendrerit libero ac accumsan lobortis.</p>
-                  <a href="#">View More</a>
+                  <a href="https://panoxiaoshou.panopath.com/">View More</a>
                 </figcaption>
               </figure>
 
